@@ -1,0 +1,17 @@
+{
+    "name": "zlh\/geetest",
+    "description": "The geetest for php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "远",
+            "email": "13800708@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Zlh\\Geetest\\": "src"
+        }
+    }
+}
